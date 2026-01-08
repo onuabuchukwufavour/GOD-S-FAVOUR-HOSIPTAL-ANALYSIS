@@ -139,5 +139,16 @@ These insights provide valuable support for improving hospital operations, medic
 - Investigate wide billing variations  
 - Ensure consistent pricing policies  
 
-### 5. Monitor Common Di
+### 5.	Monitor Common Diseases
+- High frequency conditions (e.g., malaria, Diabetes) require targeted medical resources.
+
+## 6.	Improve Patient Flow Management
+
+-	Analyze length-of-stay patterns to reduce hospital congestion.
+
+## 7.	Automate Data Quality Checks
+
+-	Run scripts to detect invalid dates, incorrect phone formats, and missing fields.
+
+
 
