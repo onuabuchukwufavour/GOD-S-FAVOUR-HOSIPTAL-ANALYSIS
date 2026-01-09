@@ -5,6 +5,18 @@
 **Prepared by:** Onuabuchukwu Favour Chimdindu  
 
 ---
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Objectives](#objectives)
+3. [Dataset Context](#dataset-context)
+4. [Technologies Used](#technologies-used)
+5. [Key Questions](#key-questions)
+6. [Key Metrics](#key-metrics)
+7. [Visualizations](#visualizations)
+8. [Insights](#insights)
+9. [Conclusion](#conclusion)
+10. [Recommendations](#recommendations)
+
 
 ## 📌 Project Overview
 
